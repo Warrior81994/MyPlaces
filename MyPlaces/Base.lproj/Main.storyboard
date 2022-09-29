@@ -70,7 +70,7 @@
                                 </tableViewCellContentView>
                                 <connections>
                                     <outlet property="imageOfPlace" destination="TMm-au-lCr" id="OMy-MF-R3o"/>
-                                    <outlet property="locationLabel" destination="XBM-lV-LvV" id="Krt-yq-dlf"/>
+                                    <outlet property="locationLabel" destination="tIg-5k-BSs" id="iWO-3Z-r14"/>
                                     <outlet property="nameLabel" destination="dMy-X9-16u" id="bVY-Dc-ySU"/>
                                     <outlet property="typeLabel" destination="h1S-f4-6Vt" id="Lqj-Mt-Dc0"/>
                                 </connections>
